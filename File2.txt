@@ -1,0 +1,9 @@
+rperl and linux sqlite and gterm, static, c programming
+
+
+initialize repository
+
+clone re posistory two option for reposistory
+
+
+
